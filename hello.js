@@ -5,3 +5,4 @@ var pren = "tina";
 }
 alert("bonjour "+nom+" "+pren);
 var massageQ = "comment vas- tu?";
+alert(messageQ);
