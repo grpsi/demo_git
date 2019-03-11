@@ -3,3 +3,4 @@ var pren = "tina";
   function cmtTPT(){
 	return nom +" "+pren;
 }
+alert("bonjour "+nom+" "+pren);
