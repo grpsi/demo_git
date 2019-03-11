@@ -1,4 +1,4 @@
-var nom = "mukakanyenzi";
+var y_ nom = "mukakanyenzi";
 var pren = "tina";
   function cmtTPT(){
 	return nom +" "+pren;
